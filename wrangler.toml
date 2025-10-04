@@ -4,7 +4,6 @@ compatibility_date = "2023-10-01"
 
 [site]
 bucket = "./public"
-entry-point = "."
 
 [build]
 command = ""
